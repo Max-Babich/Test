@@ -1,0 +1,15 @@
+E:\GIT\Test\bin\Debug\net7.0\Test.exe
+E:\GIT\Test\bin\Debug\net7.0\Test.deps.json
+E:\GIT\Test\bin\Debug\net7.0\Test.runtimeconfig.json
+E:\GIT\Test\bin\Debug\net7.0\Test.dll
+E:\GIT\Test\bin\Debug\net7.0\Test.pdb
+E:\GIT\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+E:\GIT\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+E:\GIT\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+E:\GIT\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+E:\GIT\Test\obj\Debug\net7.0\Test.dll
+E:\GIT\Test\obj\Debug\net7.0\refint\Test.dll
+E:\GIT\Test\obj\Debug\net7.0\Test.pdb
+E:\GIT\Test\obj\Debug\net7.0\Test.genruntimeconfig.cache
+E:\GIT\Test\obj\Debug\net7.0\ref\Test.dll
